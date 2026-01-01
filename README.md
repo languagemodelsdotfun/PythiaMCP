@@ -1,4 +1,4 @@
-<img width="512" height="504" alt="smallPythiaMCP" src="https://github.com/user-attachments/assets/600c6b21-2623-465e-a64d-c37588542023" />
+<center><img width="512" height="504" alt="smallPythiaMCP" src="https://github.com/user-attachments/assets/600c6b21-2623-465e-a64d-c37588542023" /></center>  
 
 
 # Pythia Voice MCP
