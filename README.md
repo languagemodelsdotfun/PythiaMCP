@@ -1,3 +1,6 @@
+<img width="1024" height="1008" alt="PythiaMCP" src="https://github.com/user-attachments/assets/5803b152-5896-4258-b884-b23a2bd6365a" />
+
+
 # Pythia Voice MCP
 
 A voice interface sidecar for LLM clients. Provides text-to-speech output via MCP and speech-to-text input via wake word detection.
