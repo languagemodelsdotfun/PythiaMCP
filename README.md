@@ -100,16 +100,6 @@ Add to your LLM client's MCP config:
 }
 ```
 
-### Available Tools
-
-- `speak(text, voice?, speed?)` - Text-to-speech output
-
-### Available Voices
-
-- `expr-voice-2-f`, `expr-voice-2-m`
-- `expr-voice-3-f`, `expr-voice-3-m`
-- `expr-voice-4-f`, `expr-voice-4-m`
-- `expr-voice-5-f`, `expr-voice-5-m`
 
 ## Configuration
 
